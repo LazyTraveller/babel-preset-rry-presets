@@ -1,0 +1,27 @@
+{
+  "name": "babel-preset-rry-presets",
+  "version": "1.0.0",
+  "description": "一个babel插件组（presets）",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LazyTraveller/babel-preset-rry-presets.git"
+  },
+  "keywords": [
+    "babel-presets"
+  ],
+  "author": "heweizhi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LazyTraveller/babel-preset-rry-presets/issues"
+  },
+  "homepage": "https://github.com/LazyTraveller/babel-preset-rry-presets#readme",
+  "dependencies": {
+    "babel-plugin-transform-flow-strip-types": "^6.22.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1"
+  }
+}
